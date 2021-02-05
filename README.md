@@ -1,4 +1,4 @@
-# LogisticRegressionPyTorch
+# Logistic Regression
 An implementation of Logistic Regression for the task of both binary and multivariate classification, using PyTorch framework.<br/>
 Comparative analysis of PyTorch implementation and scikit-learn implementation.<br/><br/>
 
